@@ -1,2 +1,4 @@
 # uuid
-generate uuid string without "-"
+generate uuid string without "-",
+
+this is neoabc project
