@@ -17,6 +17,7 @@ extern "C"{
  *If the normal exit, return this RETURN_OK.
  *@returns RETURN_OK 
  */
+
 int uuid_generate(char *uuid);
 
 #ifdef __cplusplus
